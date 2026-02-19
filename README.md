@@ -15,3 +15,6 @@ Analyze borrower data to identify patterns that lead to loan defaults.
 
 ## 🚀 Business Impact
 Helps financial institutions identify high-risk borrowers and improve decision-making.
+
+## 📷 Dashboard Preview
+![Dashboard Preview](dashboard-preview.png)
